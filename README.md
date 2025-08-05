@@ -1,2 +1,16 @@
 # 1st-class
-learned cpp for the first time 
+`#include <bits/stdc++.h>
+using namespace std ;
+int main(){
+    int a,b;
+    cin>>a>>b;
+    if(a>b){
+        cout<<a<<"is greater";
+        
+    }
+
+    else{
+        cout<<"b is greater";
+    }
+		return 0;
+	  }
